@@ -6,7 +6,7 @@ Well, do I have an extremely convoluted, mostly objective, entirely correct answ
 
 This tool, when used professionally, will automatically use your self-hosted stable diffusion server, which you definitely have, to generate 10 images of the word, or words, you gave as an answer in the midst of your game of hues and cues.
 
-It will then prompt you for the row and column of your space, take the average color of the 10 generated images, and make a direct RGB comparison, then spit out nothing but objective truth, a truth so prominent and profound it makes the Gettysburg address look like your grade-school presentation on paper-mache volcanoes..
+It will then prompt you for the row and column of your space, take the average color of the 10 generated images, and make a direct RGB comparison, then spit out nothing but objective truth, a truth so prominent and profound it makes the Gettysburg address look like your grade-school presentation on paper-mache volcanoes.
 
 Setup tutorial:
 Download and install stable diffusion WebUI Forge. Follow this tutorial: https://www.youtube.com/watch?v=dsSXa8KdnKw
