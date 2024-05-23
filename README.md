@@ -1,6 +1,6 @@
 # Hues-and-cues-grader
 
-Have you ever been shitfaced at 1 AM screaming at your friends over whether or not "Tangerine" is a proper shade of orange that coorelates to the f7 space in the board game, hues and cues, which led to a poorly enunciated screaming match over the intracies of color theory, fruit, visual qualia, and most importanty, your consistent sexual relations with their mother?
+Have you ever been shitfaced at 1 AM screaming at your friends over whether or not "Tangerine" is a proper shade of orange that coorelates to the f7 space in the hit board game, hues and cues, which led to a poorly enunciated screaming match over the intracies of color theory, fruit, visual qualia, and most importanty, your consistent sexual relations with their mother?
 
 Well, do I have an extremely convoluted, mostly objective, entirely correct answer available for you to use in a bout of schadenfreude as you make your opponents tremble in your color guessing opalescence
 
