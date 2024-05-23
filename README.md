@@ -12,6 +12,7 @@ Setup tutorial:
 Download and install stable diffusion WebUI Forge. Follow this tutorial: https://www.youtube.com/watch?v=dsSXa8KdnKw
 
 Stable diffusion WebUI Forge is available here: https://github.com/lllyasviel/stable-diffusion-webui-forge
+
 sd-forge-layerdiffuse is available here: https://github.com/layerdiffusion/sd-forge-layerdiffuse
 
 After instillation, simply run the stable diffusion WebUI run.bat file, then run the huesandcuesgrader.py file available here, then all will be revealed.
