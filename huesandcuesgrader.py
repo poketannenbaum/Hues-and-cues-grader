@@ -6,7 +6,7 @@ import base64
 import json
 import time
 import os
-import glob
+import shutil
 
 webui_server_url = 'http://127.0.0.1:7860'
 
@@ -108,13 +108,12 @@ payload = {
 }
 call_txt2img_api(**payload)
 
-# Define the folder path
 folder_path = './api_out/txt2img'
 
 files = os.listdir(folder_path)
 
 for file_name in files:
-    if file_name.endswith(('-1.png', '-2.png', '-3.png', '-4.png', '-5.png', '-6.png', '-7.png', '-8.png', '-9.png')):
+    if file_name.endswith(('-0.png','-1.png', '-2.png', '-3.png', '-4.png', '-5.png', '-6.png', '-7.png', '-8.png', '-9.png')):
         file_path = os.path.join(folder_path, file_name)
         os.remove(file_path)
 
@@ -196,4 +195,5 @@ if row_index is not None and column_index is not None:
 	print(f"These colors are {percentage:.2f}% similar")
 else:
 	print("Invalid row or column input.")
+shutil.rmtree(folder_path)
 input("Press Enter to exit...")
